@@ -1,3 +1,6 @@
+// Link to the task:
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
 function removeDuplicates(nums: number[]): number {
 
     for (let i = 1; i < nums.length; i++) {

@@ -1,3 +1,6 @@
+// Link to the task:
+// https://leetcode.com/problems/longest-common-prefix/
+
 const longestCommonPrefix = (strs: Array<string>): string => {
     let prefix = [];
     const firstWord = strs[0];
