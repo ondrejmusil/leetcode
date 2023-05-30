@@ -1,0 +1,14 @@
+{
+  "name": "leetcode_challenges",
+  "version": "1.0.0",
+  "description": "How to run the code: `tsc index.ts --lib \"DOM, ES2020\" && node index.js`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ondrej Musil",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}

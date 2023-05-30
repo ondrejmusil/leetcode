@@ -1,3 +1,4 @@
 # leetcode
-How to run the code:
-`tsc index.ts && node index.js` 
+
+How to run the code: <br>
+`tsc index.ts --lib "DOM, ES2020" && node index.js` 
