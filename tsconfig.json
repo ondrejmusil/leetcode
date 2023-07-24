@@ -3,7 +3,7 @@
     "target": "ES2015",
     "module": "commonjs",
     "lib": [
-      "ES2020",
+      "ES2021",
       "dom"
     ],
     "strict": false,
